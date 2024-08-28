@@ -19,6 +19,8 @@ body {
 h1 {
   margin-top: 1rem;
   text-align: center;
+  margin-bottom: 50px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
 .top {
@@ -34,6 +36,7 @@ input {
   width: 400px;
   padding: 0.5rem;
   border-bottom: 1px solid #000;
+  font-size: 20px;
 }
 
 .add {
@@ -47,10 +50,12 @@ input {
 .todo {
   position: relative;
   margin-top: 1rem;
-  background-color: #000;
-  color: #fff;
+  background-color: #44e80d;
+  color: #000000;
   padding: 1.5rem 3rem;
   border-radius: 5px;
+  font-size: 15px;
+  font-weight: 700;
 }
 
 .icons {
@@ -66,3 +71,20 @@ input {
   cursor: pointer;
   font-size: 20px;
 }
+
+.footer {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 18px;
+  color: rgb(188, 38, 50);
+}
+
+.footer a {
+  text-decoration: none;
+}
+
+.footer span {
+  font-size: 20px;
+}
+
+

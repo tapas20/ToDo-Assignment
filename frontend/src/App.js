@@ -58,8 +58,6 @@ function App() {
           Made With <span>&#128420;</span> By :){" "}
           <a
             href="https://www.linkedin.com/in/tapas-jyoti/"
-            target="_blank"
-            className="a-tag"
           >
             Tapas Jyoti
           </a>
